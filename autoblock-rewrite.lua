@@ -873,3 +873,4 @@ spawn(function()
         task.wait()
     end
 end)
+notify("Loaded","Forsaken",4)

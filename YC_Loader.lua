@@ -8,7 +8,8 @@ local Scripts = {
     [3047037061] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Minesweeper.lua",
     [1116949753] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/IsleESP.lua",
     [3880544777] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Instant%20Interact.lua",
-    [9866118593] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Instant%20Interact.lua"
+    [9866118593] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Instant%20Interact.lua",
+    [6331902150] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/autoblock-rewrite.lua"
 }
 
 local GameId = game.GameId

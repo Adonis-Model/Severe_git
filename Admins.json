@@ -1,6 +1,10 @@
 {
-  "Site YC": {
-    "Level": "math.huge",
-    "Users": ["85Minecraft666666"]
+  ["Site YC"] = {
+    Level = math.huge,
+    Users = {"85Minecraft666666"}
+  },
+  ["Site XX"] = {
+    Level = math.huge,
+    Users = {"Severe_YC"}
   }
 }
